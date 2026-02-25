@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Calendar Versioning](https://calver.org/) of
 the following form: YYYY.0M.0D.
 
+## 2026.02.05
+
+### Added
+
+- Designed a Todo Tracker component
+- Designed a Vehicle Maintenance Tracker component
+- Designed a Budget Tracker component
+
 ## [Unreleased]
 
 - Disabled an aspect of the coderunner extension
