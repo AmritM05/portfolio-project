@@ -106,8 +106,7 @@ Below is further rationale/explanation for the rubric items above:
 > to create a new design. In you do end up picking one at random, you should
 > disclose that here as well.
 
-<!-- TODO: briefly argue your choice of design or design something
-new; then delete this comment -->
+I chose the Vehicle Maintenance Tracker because it feels like a good idea to move forward with. It’s just storing maintenance records with things like service type, mileage, and date. I also picked this idea because I’m interested in cars, so it’s easier to stay motivated and build something meaningful.
 
 > Once you've argued your choice of design, make a branch in your new repo called
 > something like `proof-of-concept`. There are many ways to do this, but my
