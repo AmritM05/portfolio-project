@@ -139,8 +139,6 @@ to see them. If you don't like this workflow, you may try following the
 rebase strategies described [here](https://stackoverflow.com/questions/35790561/working-while-waiting-for-pending-pr)
 and [here](https://stackoverflow.com/questions/18021888/continue-working-on-a-git-branch-after-making-a-pull-request).
 
-<!-- TODO: make a new branch from main then delete this comment -->
-
 ## Assignment Tasks
 
 Your primary task for this assignment is to polish up your code and get it
@@ -305,18 +303,18 @@ Take some time to fill them out honestly.
 > complete the portfolio project, how much better (or worse) do you think you
 > understand software development and why?
 
-<!-- TODO: discuss -->
+I understand it better now. Before this, I mostly just focused on getting code to work, but this project made me think more about how things are structured. Splitting everything into interfaces and implementations felt confusing at first, but it showed how real programs are organized instead of just being one big file.
 
 > Also, did the portfolio project surface any gaps in your own knowledge of
 > software development. If so, what are those gaps and how did you address them?
 
-<!-- TODO: discuss -->
+Yeah, I didn’t really understand abstraction that well before this. I also wasn’t used to thinking about design first instead of just coding. I mostly fixed that by going back through examples and just working through each part slowly until it clicked.
 
 > Finally, as a part of completing the portfolio project, to what extent has
 > your perspective of software development changed, if at all? In other words,
 > is software development something you still enjoy? If not, why not?
 
-<!-- TODO: discuss -->
+It didn’t change how I feel about it too much, I still enjoy it. If anything, it made me realize there’s more to it than just writing code. It can get complicated, but I still like it.
 
 > One of the challenges of completing the portfolio project is picking up a lot
 > of skills on your own. Some of these skills are, of course, software skills.
@@ -324,29 +322,30 @@ Take some time to fill them out honestly.
 > this process. Therefore, the first question is what skills did you pick up
 > through this process?
 
-<!-- TODO: discuss -->
+I got better at structuring code and thinking about design instead of just writing everything in one place. I also learned how to break a problem into smaller parts and connect them together. I improved with Git too since I had to manage different parts of the project.
 
 > The follow-up question is: could you rephrase these skills you picked up
 > as bullet points that you could put on a resume? Try it below.
 
-<!-- TODO: discuss -->
+Designed and implemented a Java component using interfaces and abstraction.
+Broke down a larger system into smaller, structured parts.
+Wrote and ran unit tests using JUnit.
+Used Git to manage and track changes across a project.
 
 > Next, how has working on this project affected your career trajectory?
 > In other words, do you now hate the topic you picked? Or, are you even more
 > interested in it? Both outcomes are valuable to your personal development.
 
-<!-- TODO: discuss -->
+It didn’t change my direction much, but it did make me more comfortable with building bigger projects. I don’t hate it or anything, I’m still interested in it.
 
 > Finally, consider the skills you've picked up and your current career
 > trajectory. What are some things you could do to continue on your
 > career trajectory? Also, who are some mentors you could contact to help
 > you stay on your path?
 
-<!-- TODO: discuss -->
+I could keep working on projects outside of class and try to apply the same structure I used here. I could also talk to professors or people I meet through internships or clubs to get advice and improve.
 
 ### Changelog
-
-<!-- TODO: update CHANGELOG then delete this comment -->
 
 At the end of every assignment, you should update the
 [CHANGELOG.md](../../CHANGELOG.md) file found in the root of the project folder.

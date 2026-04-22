@@ -1,3 +1,5 @@
+package components.naturalnumber;
+
 import java.util.ArrayList;
 import java.util.List;
 

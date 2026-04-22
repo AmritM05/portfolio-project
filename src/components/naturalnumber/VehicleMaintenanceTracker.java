@@ -1,3 +1,5 @@
+package components.naturalnumber;
+
 /**
  * Enhanced interface for the VehicleMaintenanceTracker component.
  *

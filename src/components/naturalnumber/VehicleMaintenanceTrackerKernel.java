@@ -1,3 +1,5 @@
+package components.naturalnumber;
+
 import components.standard.Standard;
 
 /**

@@ -1,3 +1,5 @@
+package components.naturalnumber;
+
 /**
  * Secondary methods for the VehicleMaintenanceTracker component.
  *
