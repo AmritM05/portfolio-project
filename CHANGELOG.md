@@ -9,7 +9,7 @@ the following form: YYYY.0M.0D.
 ## 2026.04.24
 
 ### Added
-- Designed test suite for Vehicle Maintenance Tracker component
+- Designed test suite for Vehicle Maintenance Tracker component.
 - Designed two use cases demonstrating component usage
 
 ### Updated
