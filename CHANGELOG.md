@@ -6,6 +6,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Calendar Versioning](https://calver.org/) of
 the following form: YYYY.0M.0D.
 
+## 2026.04.01
+
+### Added
+- Designed abstract class for Vehicle Maintenance Tracker component
+
+### Updated
+- Implemented secondary methods for VehicleMaintenanceTracker using kernel methods
+- Added common Object methods including toString, equals, and hashCode
+
+## 2026.03.10
+
+### Added
+- Designed kernel and enhanced interfaces for Vehicle Maintenance Tracker component
+
+### Updated
+- Refined the Vehicle Maintenance Tracker design by separating core methods into a kernel interface and layered methods into an enhanced interface
+
 ## 2026.02.26
 
 ### Added
