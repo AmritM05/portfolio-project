@@ -6,6 +6,25 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Calendar Versioning](https://calver.org/) of
 the following form: YYYY.0M.0D.
 
+## 2026.04.24
+
+### Added
+- Designed test suite for Vehicle Maintenance Tracker component
+- Designed two use cases demonstrating component usage
+
+### Updated
+- Improved overall component structure and testing coverage
+
+## 2026.04.15
+
+### Added
+- Designed kernel implementation for Vehicle Maintenance Tracker component
+
+### Updated
+- Selected a list-based representation for storing maintenance records
+- Added convention and correspondence for the kernel implementation
+- Implemented all kernel and Standard methods in VehicleMaintenanceTracker1L
+
 ## 2026.04.01
 
 ### Added
